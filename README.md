@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
         <h1> Day la kiet tac nghe thuat <h1>
@@ -34,5 +35,6 @@
 
 </table>
    <a href="https://www.vietjack.com/">Hoc nua hoc mai </a>
+   <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">Hoc nua hoc mai </a>
 <body>
 </html>
