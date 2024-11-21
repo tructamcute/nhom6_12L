@@ -11,11 +11,11 @@
                   <p>Thien Kim, Anh Khoa, Huynh Phat, Yen Vy, Trung Nguyen<p>
    <p> ước mơ của chúng em: <p>
   <img src="images.png">
-        <video width="320" height="240" controls>
-        <source src="lop.mp4" type="video/mp4">
-        <source src="lop.ogg" type="video/ogg">
-        trinhf duyeejt cuar banj khoong hoox trojw html
-        </video>
+ <video width="320" height="240" controls>
+ <source src="lop.mp4" type="video/mp4">
+ <source src="lop.ogg" type="video/ogg">
+ Your browser does not support the video tag
+ </video>
    <table style="border-collapse: collapse;">
   <tr>
 
