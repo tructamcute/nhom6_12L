@@ -14,6 +14,7 @@
            <video width="320" height="240" controls>
         <source src="lop.mp4" type="lop/mp4">
         <source src="lop.ogg" type="lop/ogg">
+        </video>
    <table style="border-collapse: collapse;">
   <tr>
 
