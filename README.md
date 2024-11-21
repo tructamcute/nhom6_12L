@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
         <h1> Day la kiet tac nghe thuat <h1>
