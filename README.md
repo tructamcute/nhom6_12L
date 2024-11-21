@@ -12,8 +12,8 @@
    <p> ước mơ của chúng em: <p>
   <img src="images.png">
         <video width="320" height="240" controls>
-        <source src="lop.mp4" type="lop/mp4">
-        <source src="lop.ogg" type="lop/ogg">
+        <source src="lop.mp4" type="video/mp4">
+        <source src="lop.ogg" type="video/ogg">
         trinhf duyeejt cuar banj khoong hoox trojw html
         </video>
    <table style="border-collapse: collapse;">
