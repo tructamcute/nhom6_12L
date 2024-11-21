@@ -11,8 +11,10 @@
                   <p>Thien Kim, Anh Khoa, Huynh Phat, Yen Vy, Trung Nguyen<p>
    <p> ước mơ của chúng em: <p>
   <img src="images.png">
+           <video width="320" height="240" controls>
+        <source src="lop.mp4" type="video/mp4">
+        <source src="video.ogg" type="video/ogg">
    <table style="border-collapse: collapse;">
-
   <tr>
 
      <th rowspan="3" style="border: 2px solid blue;">Điểm thi</th>
