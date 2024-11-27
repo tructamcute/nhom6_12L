@@ -51,6 +51,8 @@
 
 </table>
    <a href="https://www.vietjack.com/">Hoc nua hoc mai </a>
+   <br>
    <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">Hoc nua hoc mai </a>
+   <a https://docs.google.com/document/d/13XveNJxCFG7XaLzErjeSDTFjfHWGlyjmxKqzblpvp5E/edit?hl=vi&tab=t.0"> Kim </a>
 <body>
 </html>
