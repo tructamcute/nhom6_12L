@@ -24,7 +24,7 @@
    <p style="color: red:"> Kính chào thầy Đức thân mến, chúng em rất quý mến thầy, hôm nay chúng em tạo web này nhằm tri ân những lời giảng của thầy đã giúp chúng em rất nhiều</p>
     <p style="color: yellow:"> Chúc thầy phát tài phát lộc 8386</p>
  <p>Cac thanh vien nhom<p>
-                  <p1>Thien Kim, Anh Khoa, Huynh Phat, Yen Vy, Trung Nguyen</p1>
+                  <a>Thien Kim, Anh Khoa, Huynh Phat, Yen Vy, Trung Nguyen</a>
    <p> ước mơ của chúng em: <p>
   <img src="images.png">
  <video width="320" height="240" controls>
@@ -52,7 +52,8 @@
 </table>
    <a href="https://www.vietjack.com/">Hoc nua hoc mai </a>
    <br>
-   <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">Hoc nua hoc mai </a>
+   <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/"> canva </a>
+   <br>
    <a href="https://docs.google.com/document/d/13XveNJxCFG7XaLzErjeSDTFjfHWGlyjmxKqzblpvp5E/edit?usp=sharing"> Kim </a>
    <a href="https://docs.google.com/document/d/1rxUfQHEtV7m2y5Tx12O5Dokbmfnq3SVTHYgGkObC6GU/edit?usp=sharing"> Khoa </a>
    <a href="https://docs.google.com/document/d/1VbOndIsti1IDW2ars7HLYwiom4ERTsaP7jcfbmlkkUE/edit?usp=sharing"> Vy </a>
