@@ -53,6 +53,10 @@
    <a href="https://www.vietjack.com/">Hoc nua hoc mai </a>
    <br>
    <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">Hoc nua hoc mai </a>
-   <a https://docs.google.com/document/d/13XveNJxCFG7XaLzErjeSDTFjfHWGlyjmxKqzblpvp5E/edit?hl=vi&tab=t.0"> Kim </a>
+   <a href="https://docs.google.com/document/d/13XveNJxCFG7XaLzErjeSDTFjfHWGlyjmxKqzblpvp5E/edit?usp=sharing"> Kim </a>
+   <a href="https://docs.google.com/document/d/1rxUfQHEtV7m2y5Tx12O5Dokbmfnq3SVTHYgGkObC6GU/edit?usp=sharing"> Khoa </a>
+   <a href="https://docs.google.com/document/d/1VbOndIsti1IDW2ars7HLYwiom4ERTsaP7jcfbmlkkUE/edit?usp=sharing"> Vy </a>
+   <a href="https://docs.google.com/document/d/1dBDkJDOV1oQBQUtVwdKD9TnwpQ4_7fq2Uu7enHJf0Xg/edit?usp=sharing"> Phát </a>
+   <a href="https://docs.google.com/document/d/13uDmjTviB_Gd5j0ldSPUxZsMiQz0zpdeHX0rSLdm-6A/edit?usp=sharing"> Nguyên </a>
 <body>
 </html>
