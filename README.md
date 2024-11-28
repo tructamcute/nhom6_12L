@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-        <input type="text" id="ten" placeholder="Tên giáo viên">
+    <input type="text" id="ten" placeholder="Tên giáo viên">
     <p id="ketqua">Xin chào!</p>
- <b> Day la kiet tac nghe thuat </b>
- <link rel="stylesheet" href="style.css">;
- <link rel="stylesheet" href="style1.css">;
+    <b style="font-size:50px ; font-family:MS fonts":> Day la mot kiet tac nghe thuat  </b>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <head>
 <body>
-       <p style="color: blue;">Chào mừng đến với Trang Web của nhom 6</p>
+    <p style="color: blue;">Chào mừng đến với Trang Web của nhom 6</p>
    <b> Kính chào thầy Đức thân mến, chúng em rất quý mến thầy, hôm nay chúng em tạo web này nhằm tri ân những lời giảng của thầy đã giúp chúng em rất nhiều</b>
    <br>
    <b> Chúc thầy phát tài phát lộc 8386</b>
@@ -23,27 +23,29 @@
  Your browser does not support the video tag
  </video>
    <table style="border-collapse: collapse;">
-  <tr>
+<tr>
+    <th rowspan="3" style="border: 2px solid blue;"> môn học       </th>
+</tr>
+<tr>
 
-     <th rowspan="3" style="border: 2px solid blue;">Điểm thi</th>
+         <td style="border: 2px solid red;">Toán </td>
 
-  </tr>
+         <td style="border: 2px solid yellow;">Vật lí </td>
 
-  <tr>
+         <td style="border: 2px solid green;">Hóa học </td>
+ 
+</tr>
+<br>
+<tr>
+    <th rowspan="3" style="border: 2px solid blue;">9.8</th>
+</tr>
+<tr>
+        <td style="border: 2px solid red;">Điểm thi</td>
 
-    <td style="border: 2px solid red;">Toán 9.8</td>
+        <td style="border: 2px solid yellow;">10</td>
 
-    <td style="border: 2px solid yellow;">Vật lí 10</td>
-
-    <td style="border: 2px solid green;">Hóa học 9.8</td>
-    <br>
-     <td style="border: 2px solid red;">Toán 9.8</td>
-
-    <td style="border: 2px solid yellow;">Vật lí 10</td>
-
-    <td style="border: 2px solid green;">Hóa học 9.8</td>
-
-  </tr>
+        <td style="border: 2px solid green;"> 9.8</td>
+</tr>
 
 </table>
    <a href="https://www.vietjack.com/">Hoc nua hoc mai </a>
