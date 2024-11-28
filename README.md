@@ -5,7 +5,7 @@
     <p id="ketqua">Xin chào!</p>
     <b style="font-size:50px ; font-family:MS fonts":> Day la mot kiet tac nghe thuat  </b>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style1.css">
 </head>
 <head>
 <body>
