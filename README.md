@@ -3,14 +3,14 @@
 <head>
     <input type="text" id="ten" placeholder="Tên giáo viên">
     <p id="ketqua">Xin chào!</p>
-    <a style="font-size:50px ; font-family:monospace":> Day la mot kiet tac nghe thuat  </a>
+    <b style="font-size:50px ; font-family:monospace":> Day la mot kiet tac nghe thuat  </b>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="style1.css">
 </head>
 <head>
 <body>
     <p style="color: blue;">Chào mừng đến với Trang Web của nhom 6</p>
-    <a> Kính chào thầy Đức thân mến, chúng em rất quý mến thầy, hôm nay chúng em tạo web này nhằm tri ân những lời giảng của thầy đã giúp chúng em rất nhiều</a>
+    <b> Kính chào thầy Đức thân mến, chúng em rất quý mến thầy, hôm nay chúng em tạo web này nhằm tri ân những lời giảng của thầy đã giúp chúng em rất nhiều</b>
    <br>
    <b> Chúc thầy phát tài phát lộc 8386</b>
  <p>Cac thanh vien nhom<p>
