@@ -36,6 +36,12 @@
     <td style="border: 2px solid yellow;">Vật lí 10</td>
 
     <td style="border: 2px solid green;">Hóa học 9.8</td>
+    <br>
+     <td style="border: 2px solid red;">Toán 9.8</td>
+
+    <td style="border: 2px solid yellow;">Vật lí 10</td>
+
+    <td style="border: 2px solid green;">Hóa học 9.8</td>
 
   </tr>
 
