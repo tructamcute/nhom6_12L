@@ -10,7 +10,7 @@
 <head>
 <body>
     <p style="color: blue;">Chào mừng đến với Trang Web của nhom 6</p>
-   <a> Kính chào thầy Đức thân mến, chúng em rất quý mến thầy, hôm nay chúng em tạo web này nhằm tri ân những lời giảng của thầy đã giúp chúng em rất nhiều</a>
+    <a> Kính chào thầy Đức thân mến, chúng em rất quý mến thầy, hôm nay chúng em tạo web này nhằm tri ân những lời giảng của thầy đã giúp chúng em rất nhiều</a>
    <br>
    <b> Chúc thầy phát tài phát lộc 8386</b>
  <p>Cac thanh vien nhom<p>
