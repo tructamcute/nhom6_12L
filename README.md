@@ -1,4 +1,3 @@
-<!DOCTYPE html> 
  <html>
  <head>
     <input type="text" id="ten" placeholder="Tên giáo viên">
