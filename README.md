@@ -28,23 +28,22 @@
 </tr>
 <tr>
 
-         <td style="border: 2px solid red;">Toán </td>
+  <td style="border: 2px solid red;">Toán </td>
 
-         <td style="border: 2px solid yellow;">Vật lí </td>
+  <td style="border: 2px solid yellow;">Vật lí </td>
 
-         <td style="border: 2px solid green;">Hóa học </td>
+  <td style="border: 2px solid green;">Hóa học </td>
  
 </tr>
 <br>
 <tr>
-    <th rowspan="3" style="border: 2px solid blue;">9.8</th>
+        <th rowspan="3" style="border: 2px solid blue;">9.8</th>
 </tr>
 <tr>
         <td style="border: 2px solid red;">Điểm thi</td>
 
-        <td style="border: 2px solid yellow;">10</td>
-
-        <td style="border: 2px solid green;"> 9.8</td>
+ <td style="border: 2px solid yellow;">10</td>
+ <td style="border: 2px solid green;"> 9.8</td>
 </tr>
 
 </table>
