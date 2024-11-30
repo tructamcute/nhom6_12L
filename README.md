@@ -3,7 +3,7 @@
 <head>
     <input type="text" id="ten" placeholder="Tên giáo viên">
     <p id="ketqua">Xin chào!</p>
-    <b style="font-size:50px ; font-family:"monospace":> Day la mot kiet tac nghe thuat  </b>
+    <b style="font-size:50px ; "font-family:monospace":> Day la mot kiet tac nghe thuat  </b>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="style1.css">
 </head>
