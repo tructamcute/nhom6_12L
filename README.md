@@ -36,10 +36,10 @@
 </tr>
 <br>
 <tr>
-        <th rowspan="3" style="border: 2px solid blue;">9.8</th>
+        <th rowspan="3" style="border: 2px solid red;">9.8</th>
 </tr>
 <tr>
-        <td style="border: 2px solid red;">Điểm thi</td>
+        <td style="border: 2px solid blue;">Điểm thi</td>
 
  <td style="border: 2px solid yellow;">10</td>
  <td style="border: 2px solid green;"> 9.8</td>
@@ -48,7 +48,7 @@
 </table>
    <a href="https://www.vietjack.com/">Hoc nua hoc mai </a>
    <br>
-   <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">canva </a>
+   <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">luyện tập vận dụng </a>
    <br>
     <a href="https://docs.google.com/document/d/13XveNJxCFG7XaLzErjeSDTFjfHWGlyjmxKqzblpvp5E/edit?usp=sharing"> Kim </a>
     <a href="https://docs.google.com/document/d/1rxUfQHEtV7m2y5Tx12O5Dokbmfnq3SVTHYgGkObC6GU/edit?usp=sharing"> Khoa </a>
