@@ -55,6 +55,19 @@
     <a href="https://docs.google.com/document/d/1VbOndIsti1IDW2ars7HLYwiom4ERTsaP7jcfbmlkkUE/edit?usp=sharing"> Vy </a>
     <a href="https://docs.google.com/document/d/1dBDkJDOV1oQBQUtVwdKD9TnwpQ4_7fq2Uu7enHJf0Xg/edit?usp=sharing"> Phát </a>
     <a href="https://docs.google.com/document/d/13uDmjTviB_Gd5j0ldSPUxZsMiQz0zpdeHX0rSLdm-6A/edit?usp=sharing"> Nguyên </a>
+ <form>
+  <label for="name">Tên:</label>
+  <br>
+  <input type="text" id="name" name="name">
+  <br>
+  <label for="email">Email: </label>
+  <br>
+  <input type="email" id="email" name="email">
+  <br>
+  <label for="tuoi">Tuổi:  </label>
+  <br>
+  <input type="text" id="tuoi" name="tuoi">
+</form>
  <body>
  <html>
 
