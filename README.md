@@ -61,11 +61,11 @@
       <br>
       <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">luyện tập vận dụng </a>
       <br>
-       <a href="https://docs.google.com/document/d/13XveNJxCFG7XaLzErjeSDTFjfHWGlyjmxKqzblpvp5E/edit?usp=sharing"> Kim </a>
-       <a href="https://docs.google.com/document/d/1rxUfQHEtV7m2y5Tx12O5Dokbmfnq3SVTHYgGkObC6GU/edit?usp=sharing"> Khoa </a>
-       <a href="https://docs.google.com/document/d/1VbOndIsti1IDW2ars7HLYwiom4ERTsaP7jcfbmlkkUE/edit?usp=sharing"> Vy </a>
-       <a href="https://docs.google.com/document/d/1dBDkJDOV1oQBQUtVwdKD9TnwpQ4_7fq2Uu7enHJf0Xg/edit?usp=sharing"> Phát </a>
-       <a href="https://docs.google.com/document/d/13uDmjTviB_Gd5j0ldSPUxZsMiQz0zpdeHX0rSLdm-6A/edit?usp=sharing"> Nguyên </a>
+       <ak href="https://tructamcute.github.io/ProfileThienKim/"> Kim </ak>
+       <ak href="https://tructamcute.github.io/ProfileAnhKhoa/"> Khoa </ak>
+       <ak href="https://tructamcute.github.io/ProfileYenVy/"> Vy </ak>
+       <ak href="https://tructamcute.github.io/ProfileHuynhPhat/"> Phát </ak>
+       <ak href="https://tructamcute.github.io/ProfileTrungNguyen/"> Nguyên </ak>
     <form>
      <label for="name">Tên:</label>
      <br>
