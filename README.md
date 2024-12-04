@@ -58,14 +58,14 @@
    
    </table>
       <a href="https://www.vietjack.com/">Hoc nua hoc mai </a>
-      <br>
-      <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">luyện tập vận dụng </a>
-      <br>
-       <k href="https://tructamcute.github.io/ProfileThienKim/"> Kim </k>
-       <k href="https://tructamcute.github.io/ProfileAnhKhoa/"> Khoa </k>
-       <k href="https://tructamcute.github.io/ProfileYenVy/"> Vy </k>
-       <k href="https://tructamcute.github.io/ProfileHuynhPhat/"> Phát </k>
-       <k href="https://tructamcute.github.io/ProfileTrungNguyen/"> Nguyên </k>
+    <br>
+     <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">luyện tập vận dụng </a>
+    <br>
+     <a href="https://tructamcute.github.io/ProfileThienKim/"> Kim </a>
+     <a href="https://tructamcute.github.io/ProfileAnhKhoa/"> Khoa </a>
+     <a href="https://tructamcute.github.io/ProfileYenVy/"> Vy </a>
+     <a href="https://tructamcute.github.io/ProfileHuynhPhat/"> Phát </a>
+     <a href="https://tructamcute.github.io/ProfileTrungNguyen/"> Nguyên </a>
     <form>
      <label for="name">Tên:</label>
      <br>
