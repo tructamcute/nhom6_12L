@@ -61,11 +61,11 @@
       <br>
       <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">luyện tập vận dụng </a>
       <br>
-       <ak href="https://tructamcute.github.io/ProfileThienKim/"> Kim </ak>
-       <ak href="https://tructamcute.github.io/ProfileAnhKhoa/"> Khoa </ak>
-       <ak href="https://tructamcute.github.io/ProfileYenVy/"> Vy </ak>
-       <ak href="https://tructamcute.github.io/ProfileHuynhPhat/"> Phát </ak>
-       <ak href="https://tructamcute.github.io/ProfileTrungNguyen/"> Nguyên </ak>
+       <k href="https://tructamcute.github.io/ProfileThienKim/"> Kim </k>
+       <k href="https://tructamcute.github.io/ProfileAnhKhoa/"> Khoa </k>
+       <k href="https://tructamcute.github.io/ProfileYenVy/"> Vy </k>
+       <k href="https://tructamcute.github.io/ProfileHuynhPhat/"> Phát </k>
+       <k href="https://tructamcute.github.io/ProfileTrungNguyen/"> Nguyên </k>
     <form>
      <label for="name">Tên:</label>
      <br>
