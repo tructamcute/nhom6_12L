@@ -9,7 +9,7 @@
             color: #333;
         }
         header {
-            background: url('images/photo-1689754955118-16897549572311618952112.jpg') no-repeat center center;
+            background: url('images/cbt.png') no-repeat center center;
             background-size: cover;
             height: 60vh;
             color: white;
@@ -121,7 +121,7 @@
     <head>
     <body>
      <header>
-    <h1>Cầu Vàng - Nhom 6</h1>
+    <h1>Nhom 6</h1>
     <div class = "backgroundvideo">
         
     </div>
