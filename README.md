@@ -9,7 +9,7 @@
             color: #333;
         }
         header {
-            background: url('cbt.png') no-repeat center center;
+            background: url('cbt1.jpg') no-repeat center center;
             background-size: cover;
             height: 60vh;
             color: white;
