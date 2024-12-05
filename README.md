@@ -105,36 +105,14 @@
             background-color: #0056b3;
         }
     </style>
-        <script>
-        function hienThiTen() {
-          // Lấy giá trị từ ô nhập liệu có ID là "ten"
-          let tenGiaoVien = document.getElementById("ten").value;
-        
-          // Thay đổi nội dung của đoạn văn có ID là "ketqua"
-          document.getElementById("ketqua").textContent = "Xin chào, " + tenGiaoVien + "!";
-        }
-        </script>
-       <b style="font-size:50px; font-family:monospace"> Day la mot kiet tac nghe thuat  </b>
-       <link rel="stylesheet" href="style.css">
-       <link rel="stylesheet" href="style1.css">
-    </head>
-    <head>
-    <body>
-     <header>
-    <h1>Nhom 6</h1>
-    <div class = "backgroundvideo">
-        
-    </div>
-</header>
+ </header>
         <div class="form-container">
         <h2>Đơn Xin Tham Gia Nhóm ^</h2>
         <form action="/submit-tour" method="POST">
             <label for="fullname">Họ và Tên</label>
             <input type="text" id="fullname" name="fullname" placeholder="Nhập họ và tên của bạn" required>
-
             <label for="email">Email</label>
             <input type="email" id="email" name="email" placeholder="Nhập email" required>
-
             <label for="phone">Số Điện Thoại</label>
             <input type="tel" id="phone" name="phone" placeholder="Nhập số điện thoại" required>
             <label for="date">Ngày sinh</label>
@@ -166,23 +144,18 @@
        <th rowspan="3" style="border: 2px solid blue;"> môn học       </th>
    </tr>
    <tr>
-   
      <td style="border: 2px solid red;">Toán </td>
-   
      <td style="border: 2px solid yellow;">Vật lí </td>
-   
      <td style="border: 2px solid green;">Hóa học </td>
-    
    </tr>
    <br>
    <tr>
            <th rowspan="3" style="border: 2px solid red;">9.8</th>
    </tr>
    <tr>
-           <td style="border: 2px solid blue;">Điểm thi</td>
-   
-    <td style="border: 2px solid yellow;">10</td>
-    <td style="border: 2px solid green;"> 9.8</td>
+        <td style="border: 2px solid blue;">Điểm thi</td>
+        <td style="border: 2px solid yellow;">10</td>
+        <td style="border: 2px solid green;"> 9.8</td>
    </tr>
    
    </table>
@@ -190,9 +163,7 @@
     <br>
      <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">luyện tập vận dụng </a>
     <br>
-
-
-    </body>
+</body>
     <html>
    
    
