@@ -66,20 +66,82 @@
      <a href="https://tructamcute.github.io/ProfileYenVy/"> Vy </a>
      <a href="https://tructamcute.github.io/ProfileHuynhPhat/"> Phát </a>
      <a href="https://tructamcute.github.io/ProfileTrungNguyen/"> Nguyên </a>
-    <form>
-     <label for="name">Tên:</label>
-     <br>
-     <input type="text" id="name" name="name">
-     <br>
-     <label for="email">Email: </label>
-     <br>
-     <input type="email" id="email" name="email">
-     <br>
-     <label for="tuoi">Tuổi:  </label>
-     <br>
-     <input type="text" id="tuoi" name="tuoi">
-   </form>
-    <body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Don xin tham gia vaof nhom 6 </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        .form-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+        }
+        .form-container h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .form-container label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #555;
+        }
+        .form-container input,
+        .form-container select,
+        .form-container button {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .form-container button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .form-container button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    <div class="form-container">
+        <h2>Đặt Vé Tham Quan Du Lịch</h2>
+        <form action="/submit-tour" method="POST">
+            <label for="fullname">Họ và Tên</label>
+            <input type="text" id="fullname" name="fullname" placeholder="Nhập họ và tên của bạn" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="Nhập email" required>
+
+            <label for="phone">Số Điện Thoại</label>
+            <input type="tel" id="phone" name="phone" placeholder="Nhập số điện thoại" required>
+            <label for="date">Ngày Tham Quan</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="tickets">Số Lượng Vé</label>
+            <input type="number" id="tickets" name="tickets" placeholder="Nhập số lượng vé" min="1" required>
+
+            <button class="btn" onclick="window.location.href='cauvang.html'">
+                Đặt vé
+            </button>
+        </form>
+    </div>
+    </body>
     <html>
    
    
