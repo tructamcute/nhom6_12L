@@ -91,7 +91,6 @@
         <a>Chúng em chúc thầy/cô luôn tràng đầy sức khỏe, cung hỷ phát tài</a>
     </div>
 </main>
-
 <footer>
     <p><c href="">Xem các thành viên nhóm</c>.</p>
     <c href="">Đăng kí làm thành viên của nhóm 6</c>
