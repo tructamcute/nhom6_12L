@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -65,7 +64,6 @@
 <header>
     <h1>NHÓM 6</h1>
     <div class = "backgroundvideo">
-        
     </div>
 </header>
 <input type="text" id="ten" placeholder="Tên giáo viên">
@@ -89,9 +87,9 @@
         <a href="https://tructamcute.github.io/DangKi/">Đăng kí thành viên</a>
     </div>
 </main>
-
 <footer>
-    <p><a href="https://tructamcute.github.io/thanhviennhom6/">Những người đã tạo ra trang web này</a>.</p>
+    <a href="https://tructamcute.github.io/thanhviennhom6/">Những người đã tạo ra trang web này</a>
+    <br>
     <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit">Thành tựu bài tập vận dụng của nhóm</a>
     <br>
     <c>Đặt câu hỏi cho admin qua sdt : 0776859230</c>
