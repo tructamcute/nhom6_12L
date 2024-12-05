@@ -1,4 +1,3 @@
-Đã dùng 73% bộ nhớ … Nếu hết dung lượng lưu trữ, bạn sẽ không thể tạo, chỉnh sửa và tải tệp lên. Sử dụng 100 GB dung lượng với giá 45.000 ₫ 0 ₫ trong 1 tháng.
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -93,7 +92,6 @@
 
 <footer>
     <p><a href="https://tructamcute.github.io/thanhviennhom6/">Những người đã tạo ra trang web này</a>.</p>
-    <br>
     <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit">Thành tựu bài tập vận dụng của nhóm</a>
     <br>
     <c>Đặt câu hỏi cho admin qua sdt : 0776859230</c>
