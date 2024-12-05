@@ -9,7 +9,7 @@
             color: #333;
         }
         header {
-            background: url('images/cbt.png') no-repeat center center;
+            background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fthptchuyenbentre.edu.vn%2F&psig=AOvVaw1TiD87OjoPU-iFk6I0jaWt&ust=1733451021554000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCvlZ3Gj4oDFQAAAAAdAAAAABAE') no-repeat center center;
             background-size: cover;
             height: 60vh;
             color: white;
