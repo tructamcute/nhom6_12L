@@ -1,7 +1,62 @@
 <html>
     <head>
-            <style>
+     <style>
         body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: url('images/photo-1689754955118-16897549572311618952112.jpg') no-repeat center center;
+            background-size: cover;
+            height: 60vh;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 3em;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+        }
+        main {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .content {
+            margin: 20px 0;
+        }
+        .content h2 {
+            color: #007bff;
+            margin-bottom: 10px;
+        }
+        .content img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+        footer {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        footer a {
+            color: #ffdd57;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+       <style>
+         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f9;
             margin: 0;
@@ -65,6 +120,12 @@
     </head>
     <head>
     <body>
+     <header>
+    <h1>Cầu Vàng - Nhom 6</h1>
+    <div class = "backgroundvideo">
+        
+    </div>
+</header>
         <div class="form-container">
         <h2>Đơn Xin Tham Gia Nhóm ^</h2>
         <form action="/submit-tour" method="POST">
