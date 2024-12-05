@@ -84,13 +84,13 @@
     <div class="content">
         <h2>Mục Đích</h2>
         <p>Trang web được tạo ra với mục đích giúp các bạn có thể đăng kí làm thành viên của nhóm 6</p>
-        <c href="https://tructamcute.github.io/DangKi/">Đăng kí thành viên</c>
+        <a href="https://tructamcute.github.io/DangKi/">Đăng kí thành viên</a>
     </div>
  </main>
  <footer>
-    <c href="https://tructamcute.github.io/thanhviennhom6/">Những người đã tạo ra trang web này</c>
+    <a href="https://tructamcute.github.io/thanhviennhom6/">Những người đã tạo ra trang web này</a>
     <br>
-    <c href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit">Thành tựu bài tập vận dụng của nhóm</c>
+    <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit">Thành tựu bài tập vận dụng của nhóm</a>
     <br>
     <c>Đặt câu hỏi cho admin qua sdt : 0776859230</c>
      <svg xmlns="http://www.w3.org/2000/svg" id="svg5" version="1.1" viewBox="0 0 502.98 108.61">
