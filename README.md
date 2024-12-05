@@ -66,7 +66,7 @@
     <head>
     <body>
         <div class="form-container">
-        <h2>Don xin tham gia nhom ^</h2>
+        <h2>Đơn Xin Tham Gia Nhóm ^</h2>
         <form action="/submit-tour" method="POST">
             <label for="fullname">Họ và Tên</label>
             <input type="text" id="fullname" name="fullname" placeholder="Nhập họ và tên của bạn" required>
@@ -76,14 +76,10 @@
 
             <label for="phone">Số Điện Thoại</label>
             <input type="tel" id="phone" name="phone" placeholder="Nhập số điện thoại" required>
-            <label for="date">Ngày Tham Quan</label>
+            <label for="date">Ngày sinh</label>
             <input type="date" id="date" name="date" required>
-
-            <label for="tickets">Số Lượng Vé</label>
-            <input type="number" id="tickets" name="tickets" placeholder="Nhập số lượng vé" min="1" required>
-
             <button class="btn" onclick="window.location.href='cauvang.html'">
-                Đặt vé
+                Sumbit
             </button>
         </form>
     </div>
@@ -91,9 +87,13 @@
        <b> Kính chào thầy Đức thân mến, chúng em rất quý mến thầy, hôm nay chúng em tạo web này nhằm tri ân những lời giảng của thầy đã giúp chúng em rất nhiều</b>
       <br>
       <b> Chúc thầy phát tài phát lộc 8386</b>
-    <p>Cac thanh vien nhom<p>
-                     <a>Thien Kim, Anh Khoa, Huynh Phat, Yen Vy, Trung Nguyen</a>
-      <p> ước mơ của chúng em: <p>
+     <p>Các thành viên nhóm<p>
+     <a href="https://tructamcute.github.io/ProfileThienKim/"> Kim </a>
+     <a href="https://tructamcute.github.io/ProfileAnhKhoa/"> Khoa </a>
+     <a href="https://tructamcute.github.io/ProfileYenVy/"> Vy </a>
+     <a href="https://tructamcute.github.io/ProfileHuynhPhat/"> Phát </a>
+     <a href="https://tructamcute.github.io/ProfileTrungNguyen/"> Nguyên </a>
+     <p> ước mơ của chúng em: <p>
      <img src="images.png">
     <video width="320" height="240" controls>
     <source src="lop.mp4" type="video/mp4">
@@ -129,13 +129,6 @@
     <br>
      <a href="https://www.canva.com/design/DAGWUno2RiE/Ek5QNr1wtd8SDvla8EMnpg/edit/">luyện tập vận dụng </a>
     <br>
-     <a href="https://tructamcute.github.io/ProfileThienKim/"> Kim </a>
-     <a href="https://tructamcute.github.io/ProfileAnhKhoa/"> Khoa </a>
-     <a href="https://tructamcute.github.io/ProfileYenVy/"> Vy </a>
-     <a href="https://tructamcute.github.io/ProfileHuynhPhat/"> Phát </a>
-     <a href="https://tructamcute.github.io/ProfileTrungNguyen/"> Nguyên </a>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
     </body>
