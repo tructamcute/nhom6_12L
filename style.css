@@ -7,9 +7,9 @@ a{
     animation: color 8s infinite;
 }
 @keyframes color {
-    0% {color:blue;}
-    15% {color:red;}
-    30% {color:black;}
+    50% {color:blue;}
+    50% {color:red;}
+    45% {color:black;}
     45% {color:rgb(238, 0, 255);}
     60% {color:rgb(47, 255, 0);}
     75% {color:yellow;}
