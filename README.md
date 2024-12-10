@@ -73,7 +73,7 @@ svg path#heart {
             color: #333;
         }
         header {
-            background: url('cbt1.jpg') no-repeat center center;
+            background: url('z6116961084847_09d160a6908b97be4b820364d23084c6.jpg') no-repeat center center;
             background-size: cover;
             height: 60vh;
             color: white;
@@ -125,7 +125,8 @@ svg path#heart {
     <h1>NHÓM 6</h1>
     <div class = "backgroundvideo">
     </div>
- </header>
+ </header> 
+ <br>
  <input type="text" id="ten" placeholder="Tên giáo viên">
     <p id="ketqua">Xin chào!</p>
     <script>
