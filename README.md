@@ -121,7 +121,7 @@ svg path#heart {
         table, th, td {
             border: 1px solid black;
             border-collapse: collapse;
-            padding: 15px;
+            padding: devive-width;
         }
     </style>
 </head>
@@ -154,7 +154,7 @@ svg path#heart {
         <br>
         <p>Đây là các đối tác quan trọng của nhóm trong tương lai</p>
         <br>
-        <vi400" controls>
+        <video width="100%" height="400" controls>
           <source src="dangki.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
