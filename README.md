@@ -130,7 +130,7 @@ svg path#heart {
 #slideshow {
   overflow: hidden;
   height: 510px;
-  width: 728px;
+  width: 1000px;
   margin: 0 auto;
 }
 .slide-wrapper {
@@ -140,7 +140,7 @@ svg path#heart {
 .slide {
   float: left;
   height: 510px;
-  width: 929px;
+  width: 1000px;
 }
 @-webkit-keyframes slide {
   20% {margin-left: 0px;}
