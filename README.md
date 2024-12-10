@@ -132,6 +132,7 @@ svg path#heart {
   height: 510px;
   width: 1000px;
   margin: 0 auto;
+  justify-content: center;
 }
 .slide-wrapper {
   width: 2912px;
@@ -141,6 +142,8 @@ svg path#heart {
   float: left;
   height: 510px;
   width: 1000px;
+  justify-content: center;
+  align-items: center;
 }
 @-webkit-keyframes slide {
   20% {margin-left: 0px;}
@@ -174,7 +177,7 @@ svg path#heart {
 </div>
  <br>
     <main>
- <input text-align: center type="text" id="ten" placeholder="Tên giáo viên">
+ <input type="text" id="ten" placeholder="Tên giáo viên">
     <p id="ketqua">Xin chào!</p>
     <script>
         const inputTen = document.getElementById('ten');
