@@ -74,7 +74,7 @@ svg path#heart {
         }
         header {
             background: url('z6117886813709_76024719edf74a2313e956d5d5db3e9d.jpg') no-repeat center center;
-            background-size: cover;
+            background-size: 100%;
             height: 60vh;
             color: white;
             display: flex;
