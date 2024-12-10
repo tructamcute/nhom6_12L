@@ -73,7 +73,7 @@ svg path#heart {
             color: #333;
         }
         header {
-            background: url('z6116961084847_09d160a6908b97be4b820364d23084c6.jpg') no-repeat center center;
+            background: url('z6117886813709_76024719edf74a2313e956d5d5db3e9d.jpg') no-repeat center center;
             background-size: cover;
             height: 60vh;
             color: white;
@@ -156,7 +156,7 @@ svg path#heart {
 </head>
 <body>
  <header>
-    <h1>NHÓM 6</h1>
+    <h1 href="https://www.facebook.com/?locale=vi_VN">   </h1>
     <div class = "backgroundvideo">
     </div>
  </header> 
