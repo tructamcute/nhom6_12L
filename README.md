@@ -140,7 +140,7 @@ svg path#heart {
 .slide {
   float: left;
   height: 510px;
-  width: 728px;
+  width: 800px;
 }
 @-webkit-keyframes slide {
   20% {margin-left: 0px;}
@@ -168,13 +168,13 @@ svg path#heart {
     </slide>
 <br>
 <div style="text-align:center">
-    <p>NHóm 6</p>
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
 </div>
  <br>
- <input type="text" id="ten" placeholder="Tên giáo viên">
+    <main>
+ <input text-align: center type="text" id="ten" placeholder="Tên giáo viên">
     <p id="ketqua">Xin chào!</p>
     <script>
         const inputTen = document.getElementById('ten');
@@ -183,7 +183,6 @@ svg path#heart {
             ketQua.textContent = `Xin chào, ${inputTen.value}!`;
         });
     </script>
- <main>
     <div class="content">
         <h2>Kính chào</h2>
         <p>Đây là trang web của nhóm 6, Cảm ơn thầy và các bạn đã xem qua</p>
