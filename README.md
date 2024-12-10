@@ -123,59 +123,31 @@ svg path#heart {
             border-collapse: collapse;
             padding: 20px;
         }
-        * {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-}
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
+        slide {
+  padding: 2%;
   text-align: center;
 }
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
+#slideshow {
+  overflow: hidden;
+  height: 510px;
+  width: 728px;
+  margin: 0 auto;
 }
-/* The dots/bullets/indicators */
-.dot {
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
+.slide-wrapper {
+  width: 2912px;
+  -webkit-animation: slide 14s ease infinite;
 }
-.active {
-  background-color: #717171;
+.slide {
+  float: left;
+  height: 510px;
+  width: 728px;
 }
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .text {font-size: 11px}
+@-webkit-keyframes slide {
+  20% {margin-left: 0px;}
+  30% {margin-left: -728px;}
+  50% {margin-left: -728px;}
+  60% {margin-left: -1456px;}
+  80% {margin-left: -1456px;}
 }
     </style>
 </head>
@@ -185,30 +157,16 @@ img {vertical-align: middle;}
     <div class = "backgroundvideo">
     </div>
  </header> 
-<div>
-<div class="slideshow-container">
-
-<div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="[img_nature_wide.jpg](https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/448154411_775013584782276_9122016984986856523_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeFSL6XEU8uumTJI3bA_So7WfuG0iEirc21-4bSISKtzba8OqWH6BlyKsweqvOIORHR0BwHeBjBLjvHxLEO91x1P&_nc_ohc=LJ069lOa1mIQ7kNvgH1W0Uj&_nc_zt=23&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=A7xY4GGKPCQNgloF0I9ftxR&oh=00_AYBWrtTRyeBvtS_2ORIVQp5v25Xj_dDqlxjjLtEEFrb03A&oe=675E3CCB)" style="width:100%">
-  <div class="text">Caption Text</div>
+    <slide>
+<div id="slideshow">
+  <div class="slide-wrapper">
+    <div class="slide"><img src="s1.pjg"></div>
+    <div class="slide"><img src="s2.pjg"></div>
+       <div class="slide"><img src="s3.pjg"></div>
+  </div>
 </div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/448152867_775013224782312_1738571844739042069_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeFo1Yp4g4vbsRw_IVKjp_RaRTy21CdBqeVFPLbUJ0Gp5WseCtx8-Gbp561PA3rF_bebiC8eU0yt_Dc7zb9AevTv&_nc_ohc=kR2ElC0pLboQ7kNvgFHP9zn&_nc_zt=23&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=AKkAJzS7-XAZ9uIaoVXpbaE&oh=00_AYCDa9Smt-G3Qz9_3CNXr_k0n9Nnz_xLSs8JcSP3tiBj3g&oe=675E2064" style="width:100%">
-  <div class="text">Caption Two</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="" style="width:1https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/448152705_775013574782277_6293846224918658052_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeFWJiu7Ifc5xAm38_d6bIrhY9-b_jnyeNpj35v-OfJ42vPpBjZHzXChBfwjuqdFWshYFv6pTpq5O12ifmKcxv5_&_nc_ohc=ln-lQozX1ggQ7kNvgGMTMGp&_nc_zt=23&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=Awgn0rlWoOjyvU-QS_xU0oN&oh=00_AYDX6mCuDwKXYIi8WctNhRDMWwyJk3p82Kf4xwzK6uo96g&oe=675E138500%">
-  <div class="text">Caption Three</div>
-</div>
-
-</div>
+    </slide>
 <br>
-
 <div style="text-align:center">
   <span class="dot"></span> 
   <span class="dot"></span> 
