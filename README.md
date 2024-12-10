@@ -155,7 +155,7 @@ svg path#heart {
         <p>Đây là các đối tác quan trọng của nhóm trong tương lai</p>
         <br>
         <video controls>
-          <source src="6053805756567.mp4" type="video/mp4">
+          <source src="dangki.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
         <br>
