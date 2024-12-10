@@ -130,7 +130,7 @@ svg path#heart {
 #slideshow {
   overflow: hidden;
   height: 510px;
-  width: 1000px;
+  width: 728px;
   margin: 0 auto;
   justify-content: center;
 }
@@ -141,7 +141,7 @@ svg path#heart {
 .slide {
   float: left;
   height: 510px;
-  width: 1000px;
+  width: 728px;
   justify-content: center;
   align-items: center;
 }
