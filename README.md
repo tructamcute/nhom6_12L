@@ -140,7 +140,7 @@ svg path#heart {
 .slide {
   float: left;
   height: 510px;
-  width: 800px;
+  width: 929px;
 }
 @-webkit-keyframes slide {
   20% {margin-left: 0px;}
