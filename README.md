@@ -4,6 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NHÓM 6 LỚP 12 LÝ</title>
     <style>
+        h1 {
+            display:none;
+            }
 svg {
   overflow: visible;
 }
