@@ -259,7 +259,7 @@ svg path#heart {
  <footer>
     <a href="https://tructamcute.github.io/thanhviennhom6/">Những người đã tạo ra trang web này</a>
     <br>
-    <a href="https://tructamcute.github.io/btst/">Bài tập và vận dụng/a>
+    <a href="https://tructamcute.github.io/btst/">Bài tập và vận dụng</a>
     <br>
      <a href="https://tructamcute.github.io/hihihaha/">Trò chơi Spider do nhóm 6 tặng các bạn và thầy</a>
      <br>
